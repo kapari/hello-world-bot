@@ -1,3 +1,8 @@
+# hello-fairytales-bot
+
+Completed tutorial using a book of Japanese Fairy Tales from Project Gutenberg: https://www.gutenberg.org/ebooks/35853
+
+
 # hello-world-bot
 A template for creating a Twitter bot that tweets lines of a text one at a time.
 
